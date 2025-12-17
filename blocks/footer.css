@@ -1,0 +1,9 @@
+.footer__paragraph {
+  width: 104;
+  font-family: "Poppins", Helvetica, Arial, Sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+  margin: 0;
+  padding: 40px 0;
+}
