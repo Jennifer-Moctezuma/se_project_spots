@@ -1,21 +1,27 @@
 # Project 3: Spots
 
-### Overview  
+### Description  
+This project is made so all the elements are displayed correctly on popular screen sizes,
+for a Web site where can share their trip expedriences through pictures and writting in this page.
+**Tech Stack**
+I use HTML as my markup lenguage whit their sematig tag.
+***Some of the new techniques that I apply:***
+- Css grid
+- Media Queries 
+- Multiple Fonts
 
-* Intro  
-* Figma  
-* Images  
   
-**Intro**
+**Pictures**  
   
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
+* [Figma Project Vew](./images/spots-images/coleman.JPG)
+* [Figma Project Vew](./images/spots-images/coleman2.JPG)
+* [Figma Project Vew](./images/spots-images/coleman3.JPG)
+
+
+
   
-**Figma**  
+**Deployment**  
   
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
+Git Hub [Projec 3](https://jennifer-moctezuma.github.io/se_project_spots/) See you there ^-^ . 
   
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+**Pitch Video**
